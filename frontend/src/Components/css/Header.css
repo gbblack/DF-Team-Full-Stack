@@ -1,0 +1,36 @@
+@import "./global.css";
+
+.Header {
+  background-color: var(--df-blue-1);
+  color: var(--df-back-color);
+}
+
+.logo {
+  color: var(--df-white);
+  align-items: center;
+  display: flex;
+  font-size: xx-large;
+}
+
+.logoSVG {
+  max-height: 30px;
+  padding-right: 8px;
+}
+
+.header-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+
+.navlinkgen {
+  display: block;
+}
+
+.navbar-nav {
+  justify-content: center;
+}
+
+.navlinkgen:hover {
+  background-color: var(--df-blue-2);
+}

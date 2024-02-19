@@ -1,0 +1,57 @@
+[
+    {
+        "_id": {
+            "$oid": "62385116f61c0c2d9ee68225"
+        },
+        "availability": true,
+        "discipline": "Software Engineering",
+        "firstName": "Jared",
+        "lastName": "Kings",
+        "tagline": "No harm no foul",
+        "imagePath": "images/profile-placeholder.png"
+    },
+    {
+        "_id": {
+            "$oid": "623851abf61c0c2d9ee68226"
+        },
+        "availability": false,
+        "discipline": "Data Science",
+        "firstName": "David",
+        "lastName": "Garner",
+        "tagline": "Jenkins Sucks",
+        "imagePath": "images/profile-placeholder.png"
+    },
+    {
+        "_id": {
+            "$oid": "6238521df61c0c2d9ee68227"
+        },
+        "availability": true,
+        "discipline": "Data Science",
+        "firstName": "Jessica",
+        "lastName": "Shield",
+        "tagline": "Fully Stacked",
+        "imagePath": "images/profile-placeholder.png"
+    },
+    {
+        "_id": {
+            "$oid": "62385253f61c0c2d9ee68228"
+        },
+        "availability": false,
+        "discipline": "Software Engineering",
+        "firstName": "Jean-Paul",
+        "lastName": "Broussard",
+        "tagline": "Hi Ed",
+        "imagePath": "images/profile-placeholder.png"
+    },
+    {
+        "_id": {
+            "$oid": "623852dcf61c0c2d9ee6822a"
+        },
+        "availability": true,
+        "discipline": "Cloud Engineering",
+        "firstName": "Siobhan",
+        "lastName": "O'Donell",
+        "tagline": "Henlo",
+        "imagePath": "images/profile-placeholder.png"
+    }
+]

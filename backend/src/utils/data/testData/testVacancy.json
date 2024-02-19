@@ -1,0 +1,22 @@
+[
+    {
+      "position": "Web Developer",
+      "location": "London",
+      "startDate": "2022-03-19T16:32:27.897+00:00"
+    },
+    {
+      "position": "Junior Web Engineer",
+      "location": "London",
+      "startDate": "2022-07-08T16:32:27.897+00:00"
+    },
+    {
+      "position": "Software Developer",
+      "location": "Manchester",
+      "startDate": "2022-09-05T16:32:27.897+00:00"
+    },
+    {
+      "position": "Junior Software Engineer",
+      "location": "Manchester",
+      "startDate": "2022-03-04T16:32:27.897+00:00"
+    }
+  ]

@@ -1,0 +1,25 @@
+.order-card-body {
+  padding: 16px;
+}
+
+.job-name {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  line-height: 36px;
+}
+
+.job-details ul {
+  list-style: none;
+  padding-left: unset;
+  margin-bottom: unset;
+}
+
+.job-detail-field {
+  display: flex;
+  justify-content: space-between;
+}
+
+.job-detail-field span:first-child {
+  font-weight: bold;
+}

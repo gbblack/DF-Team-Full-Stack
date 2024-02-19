@@ -1,0 +1,29 @@
+[
+  {"_id": {
+    "$oid": "62446cdf1475f667a6c5e1eb"
+    },
+    "userId": "65d28bc4471b928d137656d4",
+    "companyName": "HSBC",
+    "officeLocations": ["London","Manchester","Bristol"],
+    "logo": "images/ip-profiles/hsbc.jpg",
+    "keyContacts": [
+      {"name":"Fiona Cartwright","email":"fiona.cartwright@hsbc.com","telephone":"020 3879 9555","position":"Chief Technical Officer","location":"London"},
+      {"name":"John Adams","email":"john.adams@hsbc.com","telephone":"0161 275 2648","position":"Recruiting Director","location":"Manchester"}
+    ],
+    "__v": {
+      "$numberInt":"0"
+      }
+    },
+
+    {
+      "_id": {
+        "$oid": "65d2aaf697e909a0bf26eb80"
+      },
+      "userId": "65d2aaf697e909a0bf26eb7f",
+      "companyName": "EMPTY",
+      "officeLocations": [],
+      "logo": "images/ip-profiles/__default.jpg",
+      "keyContacts": [],
+      "__v": 0
+    }
+]

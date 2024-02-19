@@ -1,0 +1,42 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development nodemon server",
+    "test": "cross-env NODE_ENV=test mocha --timeout 5000 --exit",
+    "test:staging": "cross-env NODE_ENV=staging mocha --timeout 10000 --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DFXtra-Team-2-Electric-Boogaloo/BackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DFXtra-Team-2-Electric-Boogaloo/BackEnd/issues"
+  },
+  "homepage": "https://github.com/DFXtra-Team-2-Electric-Boogaloo/BackEnd#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^6.12.6"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "cross-env": "^7.0.3",
+    "mocha": "^9.2.2",
+    "morgan": "^1.10.0",
+    "node-mocks-http": "^1.11.0",
+    "nodemon": "^2.0.15",
+    "sinon": "^13.0.1"
+  }
+}

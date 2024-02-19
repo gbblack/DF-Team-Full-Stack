@@ -1,0 +1,22 @@
+[
+    {
+      "email": "hsbc@hotmail.co.uk",
+      "password": "password123",
+      "role": "INDUSTRY_PARTNER"
+    },
+    {
+      "email": "tfl@hotmail.co.uk",
+      "password": "password123",
+      "role": "INDUSTRY_PARTNER"
+    },
+    {
+      "email": "deloitte@hotmail.co.uk",
+      "password": "password123",
+      "role": "INDUSTRY_PARTNER"
+    },
+    {
+      "email": "electric-boogaloo@hotmail.co.uk",
+      "password": "password123",
+      "role": "INDUSTRY_PARTNER"
+    }
+  ]

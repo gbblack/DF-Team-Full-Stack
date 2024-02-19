@@ -1,0 +1,72 @@
+.modal-display {
+  padding: 16px;
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.display-modal-content {
+  height: 90vh;
+  max-height: 750px;
+  overflow: hidden;
+}
+
+.modal-header {
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1;
+}
+
+.modal-footer {
+  position: sticky;
+  bottom: 0;
+  background: white;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.modal-scroller {
+  height: 100%;
+  overflow: auto;
+}
+
+.modal-image-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.modal-image {
+  aspect-ratio: 1;
+  object-fit: cover;
+  max-height: 300px;
+  max-width: 300px;
+}
+
+.card-name {
+  margin-bottom: unset;
+}
+
+.card-img-top {
+  padding-bottom: 2px;
+}
+
+.card-discipline {
+  padding-top: 2px;
+}
+
+.card-tagline {
+  font-style: italic;
+}
+
+.card-content {
+  text-align: justify;
+}
+
+.card-img-top {
+  border-radius: 50%;
+}

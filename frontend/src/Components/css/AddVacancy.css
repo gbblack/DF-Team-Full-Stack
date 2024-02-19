@@ -1,0 +1,70 @@
+.add-vacancy-form {
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    padding: 0.25px;
+
+}
+
+.modal-parent {
+
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.vacancy-modal-content {
+    height: unset;
+    max-height: unset;
+    overflow: hidden;
+}
+
+.something {
+
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.submit-field {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.form-group .field input:focus {
+    border-color: #1e5bc9;
+}
+
+.input-field {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    transition: all 0.3s ease;
+}
+
+.form-control {
+    margin-left: 20%;
+    max-width: 60%;
+    padding: 10px;
+}
+
+.submit {
+    margin-top: 10px;
+    max-width: 100px;
+    align-items: center;
+    background: -webkit-linear-gradient(left, #00d4ff, #1e5bc9);
+}
+
+.fail-msg {
+    color: #812929;
+    font-style: oblique;
+}
+
+.success-msg {
+    color: #2d692d;
+    font-style: oblique;
+
+}

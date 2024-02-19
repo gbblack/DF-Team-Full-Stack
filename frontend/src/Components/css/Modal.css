@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-openModal{
+    background-color: #22447B;
+    color: #eee;
+    font-size: 1rem;
+    margin: 2rem;
+    padding: .5rem 1.8rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn-openModal:hover{
+    background-color: #0064DC;
+}
+
+.modal-wrapper {
+    background: #fff;
+    width: 80%;
+    max-width: 800px;
+    margin: 4rem auto;
+    border-radius: 1em;
+    transition: all 0.5s ease;
+}
+
+.modal-header {
+    background: #2c2c2c;
+    color: #e9e9e9;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 0.5em 0.5em  0 0;
+}
+
+.modal-header span {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.modal-content {
+    padding: 1.5rem 1rem;  
+}
+
+.modal-body{
+    margin-bottom: 1rem;
+}
+
+.modal-body h4 {
+    font-size: 1.8rem;
+    color: blue;
+}
+
+.modal-bodyp {
+    font-size: 1rem;
+    background: #eee;
+    color: #333;
+    padding: 1rem;
+    margin: 1rem 0 2rem 0;
+}
+
+.modal-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.modal-footer button {
+    display: inline;
+    justify-items: auto;
+    font-size: 1rem;
+    margin-left: auto;
+    padding: 0.5rem 1.8rem ;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.register-interest{
+    background: #43ABC9;
+    border-radius: 2em 30em 30em;
+}
+
+.register-interest:hover {
+    background-color: #22447b;
+}
+
+.btn-cancel{
+    background: #D7D8DA;
+    border-radius: 2em 30em 30em;
+}
+
+.btn-cancel:hover{
+    background-color: #22447B;
+}
+
+.back-drop{
+    background: rgba(63, 61, 61, 0.692);
+    height: 100%;
+    position: fixed;
+    transition: all 1.3s;
+    width: 100%;
+}
+
+.ModalPhoto{
+    border-radius: 50%;
+    max-height: 300px;
+    max-width: 300px;
+    
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "_id": {
+      "$oid": "6239b421f61c0c2d9ee68246"
+    },
+    "position": "Web Developer",
+    "location": "London",
+    "startDate": "2022-03-19T16:32:27.897+00:00",
+    "partnerId":{
+    "$oid":"62446cdf1475f667a6c5e1eb"
+    }
+  },
+
+  {"_id": {
+    "$oid": "62459cf8ce1e816dd30e0e84"
+    },
+    "position": "Cloud Engineer",
+    "location": "Scoretland",
+    "startDate": "2023-11-05T16:32:27.897+00:00",
+    "partnerId": {
+      "$oid":"62446cdf1475f667a6c5e1eb"
+    }
+  }
+]

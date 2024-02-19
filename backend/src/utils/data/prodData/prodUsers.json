@@ -1,0 +1,21 @@
+[
+  {
+    "_id": {
+      "$oid": "65d2a98897e909a0bf26eb6e"
+    },
+    "email": "hsbc@hotmail.co.uk",
+    "password": "$2b$08$IMhfQJX64HkxneYR7FrMhe64WPnTAy9LXrTUr8EOF9Kt6.ZaB0rC2",
+    "role": "INDUSTRY_PARTNER",
+    "__v": 0
+  },
+
+  {
+    "_id": {
+      "$oid": "65d2aaf697e909a0bf26eb7f"
+    },
+    "email": "empty@gmail.com",
+    "password": "$2b$08$uSI1J/KTfarVOqx6ND2uAOO5w32ok5j/L25LHZSo3HVpE7qNFN9fa",
+    "role": "INDUSTRY_PARTNER",
+    "__v": 0
+  }
+]

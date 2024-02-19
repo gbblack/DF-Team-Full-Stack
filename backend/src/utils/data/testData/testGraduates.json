@@ -1,0 +1,44 @@
+[
+    {
+      "firstName": "Jared",
+      "lastName": "Kings",
+      "availability": true,
+      "imagePath": "images/jared",
+      "discipline": "Software Engineering"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Garner",
+      "availability": false,
+      "imagePath": "images/david",
+      "discipline": "Data Science"
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Shield",
+      "availability": true,
+      "imagePath": "images/jessica",
+      "discipline": "Data Science"
+    },
+    {
+      "firstName": "Jean-Paul",
+      "lastName": "Broussard",
+      "availability": false,
+      "imagePath": "images/jean-paul",
+      "discipline": "Software Engineering"
+    },
+    {
+      "firstName": "Siobhan",
+      "lastName": "O'Donell",
+      "availability": true,
+      "imagePath": "images/siobhan",
+      "discipline": "Cloud Engineering"
+    },
+    {
+      "firstName": "Victoria",
+      "lastName": "Wilde",
+      "availability": false,
+      "imagePath": "images/victoria",
+      "discipline": "Cloud Engineering"
+    }
+  ]
